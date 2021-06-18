@@ -4,4 +4,4 @@
 
 
 - 📚 CS Student
-- 👨🏻‍💻 Currently studying HTML5, CSS3 and JavaScript
+- 👨🏻‍💻 Currently studying React/React Native
