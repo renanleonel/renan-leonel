@@ -4,4 +4,4 @@
 
 
 - 📚 CS Student
-- 👨🏻‍💻 Currently studying Javascript
+- 👨🏻‍💻 Currently studying Vue.js
