@@ -1,16 +1,7 @@
 ### Hi there 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renanleonel/)](https://www.linkedin.com/in/renanleonel/)
-
 - 📚 CS Student
-- 👨🏻‍💻 Currently studying React.js and Vue.js
-
-
-### Olá 👋
-
-- 🌱 Estudando Java, JavaScript, HTML e CSS
-- 💬 Atualmente fazendo um MOOC de *DeFi* na UNIC (_University of Nicosia_)
-- ⚡ Apaixonado por Blockchain, Web3.0, Crypto, NFT's...
+- 👨🏻‍💻 Currently studying React.js, React Native and Node.js
 
 <div> 
   <a href = "mailto:renanleonelpro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
