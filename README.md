@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 📚 CS Student
-- 👨🏻‍💻 Currently studying React.js, React Native and Node.js
+- 👨🏻‍💻 Currently studying React.js, React Native and node.js
 
 <div> 
   <a href = "mailto:renanleonelpro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
