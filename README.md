@@ -1,5 +1,3 @@
-### Hi there 👋
-
 - 📚 CS Student
 - 👨🏻‍💻 Currently studying React.js, React Native and node.js.
 
