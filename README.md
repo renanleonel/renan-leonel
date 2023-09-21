@@ -1,4 +1,4 @@
-Desenvolvedor Front End com experiência em React, React Native, JavaScript, TypeScript e Node.js. Tenho interesse tanto em desenvolvimento front-end quanto em back-end, e busco me manter atualizado com as principais tecnologias da área.
+Desenvolvedor Front End com experiência em React, Next.js, React Native, TypeScript, Javascript e Node.js. Tenho interesse tanto em desenvolvimento front-end quanto em back-end, e busco me manter atualizado com as principais tecnologias da área.
 
 Formado em Ciência da Computação pela Universidade Estadual de Maringá, fui bolsista de iniciação científica no desenvolvimento de um módulo de requisitos. 
 
