@@ -10,6 +10,5 @@ Formado em Ciência da Computação pela Universidade Estadual de Maringá, fui 
 ##
   
   <a href="https://github.com/renan-leonel">
-  <img height="160cm" src="https://github-readme-stats.vercel.app/api?username=renan-leonel&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renan-leonel&layout=compact&langs_count=7&theme=react"/>
 </div>
